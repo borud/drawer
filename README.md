@@ -19,6 +19,11 @@ Of course, the design is made generic so it should fit any bookshelf
 as long as you measure the dimensions carefully and type them into the
 parameter section. 
 
+## No kerf setting
+
+For now there is no setting to allow for kerf.  I'll add that later
+when I've had some time to test the design.
+
 ## Disclaimer
 
 Note that the model should be parameter driven, but that I may have
