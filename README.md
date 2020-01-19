@@ -19,4 +19,9 @@ Of course, the design is made generic so it should fit any bookshelf
 as long as you measure the dimensions carefully and type them into the
 parameter section. 
 
+## Disclaimer
+
+Note that the model should be parameter driven, but that I may have
+made mistakes that will make the model wonky if you alter parameters.
+If you spot errors I've made feel free to correct them.
 
